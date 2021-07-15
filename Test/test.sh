@@ -23,6 +23,7 @@ BLARNEY_DEFAULT_EXAMPLES=(
   Queue
   RAM
   RAMBE
+  RAMQuad
   Sorter
   SourceSink
   Stack
@@ -38,6 +39,7 @@ SIMULATION_EXCLUDE=(
   Spec
   Interface
   MasterSlave
+  RAMQuad
 )
 
 RED='\033[0;31m'
